@@ -1,0 +1,2 @@
+rootProject.name = "Blood pressure & pulse"
+include ':app'
